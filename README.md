@@ -64,11 +64,11 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirojlamichhane&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://lamichhane-niroj.vercel.app/api?username=nirojlamichhane&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirojlamichhane&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://lamichhane-niroj.vercel.app/api/top-langs/?username=nirojlamichhane&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ---
