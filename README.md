@@ -60,15 +60,15 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirojlamichhane&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github.com/lamichhane-niroj.herokuapp.com/?user=nirojlamichhane&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://lamichhane-niroj.vercel.app/api?username=nirojlamichhane&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github.com/lamichhane-niroj/api?username=nirojlamichhane&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://lamichhane-niroj.vercel.app/api/top-langs/?username=nirojlamichhane&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github.com/lamichhane-niroj/api/top-langs/?username=nirojlamichhane&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -76,9 +76,9 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:nirojlamichhane007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nirojlamichhane"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nirojlamichhane"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:lamichhaneniroj2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/CwdqYbmZfx/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/lamichhane-niroj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
