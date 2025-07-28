@@ -60,15 +60,15 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/lamichhane-niroj.herokuapp.com/?user=nirojlamichhane&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamichhane-niroj&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/lamichhane-niroj/api?username=nirojlamichhane&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lamichhane-niroj&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/lamichhane-niroj/api/top-langs/?username=nirojlamichhane&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamichhane-niroj&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ---
