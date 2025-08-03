@@ -23,7 +23,7 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 - 🌱 Exploring **Firebase**, **REST APIs**, and **Leetcode problems**  
 - 🤖 Learning about **Machine Learning**, **Automation Tools**, and **Data Science**
 - 🎮 Game Developer by curiosity and side projects
-- 📫 Reach me at: **nirojlamichhane007@gmail.com**
+- 📫 Reach me at: **lamichhaneniroj3@gmail.com**
 
 ---
 
