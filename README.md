@@ -11,7 +11,7 @@
 **Itahari, Nepal** 🇳🇵
 
 ### 👨‍💻 Current Role:
-**Flutter Developer** at **Kafals** and **Klixsoft**
+**Flutter Developer** at **Plexbit InfoSystems**
 
 ---
 
