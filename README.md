@@ -39,7 +39,6 @@ I'm a passionate Flutter developer who enjoys building **elegant**, **user-frien
 ### 📱 Frameworks & Libraries  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-green)
 
 ### 🛠 Tools & Platforms  
